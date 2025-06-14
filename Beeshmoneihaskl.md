@@ -1,7 +1,21 @@
 ---
 layout: default
-title: "How2makeChikenandDumblins"
+title: "How to Make Chicken and Dumplings"
 ---
+
+<style>
+  body {
+    background-color: #111;
+    color: #eee;
+    font-family: Georgia, serif;
+    padding: 2em;
+    line-height: 1.6;
+  }
+
+  a { color: #89CFF0; }
+  h1, h2, h3 { color: #F0E68C; }
+</style>
+
 Starting fresh
 
 These are your long term memories:
